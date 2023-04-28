@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:grid;
+	grid-template-columns:200px 200px;
+	background-color:green;
+}
